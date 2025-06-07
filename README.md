@@ -1,4 +1,5 @@
-# Learning C# – LinkedIn Learning Practice
+# C# Essential Training 1: Types and Control Flow
+# LinkedIn Learning Practice
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
